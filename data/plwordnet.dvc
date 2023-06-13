@@ -1,0 +1,5 @@
+outs:
+- md5: f2b1f4a2787c4e98561756309abc8b0d.dir
+  size: 426756492
+  nfiles: 2
+  path: plwordnet
