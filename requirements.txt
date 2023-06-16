@@ -7,3 +7,4 @@ tensorboard==2.12.0
 plwordnet==0.1.5
 pyvis==0.3.2
 ipywidgets==8.0.6
+dvc[s3]==2.58.2

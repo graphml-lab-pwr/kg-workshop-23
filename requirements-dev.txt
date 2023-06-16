@@ -1,2 +1,1 @@
-dvc[s3]==2.58.2
 black[jupyter]==23.3.0
