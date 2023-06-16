@@ -2,5 +2,4 @@
     remote = thorium
     autostage = true
 ['remote "thorium"']
-    url = s3://kg-workshop-23/dvc/
-    endpointurl = http://156.17.248.227:30981/
+    url = http://156.17.248.227:30981/kg-workshop-23/dvc/
