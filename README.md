@@ -1,4 +1,4 @@
-# kg-workshop-23
+# AI Tech Summer School 2023 - Knowledge Graph Representation Learning
 
 # Installation
 1. Clone this repository
