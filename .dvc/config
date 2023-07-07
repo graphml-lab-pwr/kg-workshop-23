@@ -1,0 +1,5 @@
+[core]
+    remote = thorium
+    autostage = true
+['remote "thorium"']
+    url = http://156.17.248.227:30981/public/kg-workshop-23/dvc/
